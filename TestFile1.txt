@@ -2,3 +2,4 @@ Hello this is a demo to show mutiple commit
 Adding a new line
 Adding new line from branch
 Testing 123
+adding 2nd file new line
