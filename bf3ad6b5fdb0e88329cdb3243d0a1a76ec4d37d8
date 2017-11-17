@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a41ead3a_e4fd2011",
+        "filename": "TestFile2.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012747
+      },
+      "writtenOn": "2017-11-17T15:10:24Z",
+      "side": 1,
+      "message": "change it to something else",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 8
+      },
+      "revId": "bf3ad6b5fdb0e88329cdb3243d0a1a76ec4d37d8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
