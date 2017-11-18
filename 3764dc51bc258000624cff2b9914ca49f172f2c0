@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ca7cce64_078bb8f5",
+        "filename": "Test.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012747
+      },
+      "writtenOn": "2017-11-18T16:39:00Z",
+      "side": 1,
+      "message": "add a new line",
+      "revId": "3764dc51bc258000624cff2b9914ca49f172f2c0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
